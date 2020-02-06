@@ -1,0 +1,27 @@
+( ) - Faire un menu {
+    ( ) - Créer la fonction
+    ( ) - Faire un enchainement menu/jeu
+    ( ) - Faire un quit
+    ( ) - Faire un colori
+}
+
+( ) - Faire le Paralax {
+    ( ) - Implementer la fonction
+    ( ) - Faire s'afficher le background
+    ( ) - Faire se déplacer le background
+    ( ) - Faire un background continu
+}
+
+( ) - Faire les sprites du perso {
+    (X) - Faire le player_walk
+    (X) - Faire le player_jump
+    ( ) - Faire la hitbox
+    ( ) - Faire les enemis
+    ( ) - Faire une lose condition
+}
+
+(X) - Faire les sons {
+    (X) - Mettre une musique
+    (X) - Mettre un loop
+    ( ) - Bruit de saut pour le joueur
+}
